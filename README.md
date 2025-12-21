@@ -1,4 +1,5 @@
 # Endpoint/Path Gaps as a Diagnostic of Coarse-Graining Breakdown Along RG Flows
+DOI:https://doi.org/10.5281/zenodo.18011380
 
 This repository contains the PDF and LaTeX source package for the one-loop QED worked computation paper.
 
