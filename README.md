@@ -1,11 +1,17 @@
-# Endpoint/Path Gaps as a Diagnostic of Coarse-Graining Breakdown Along RG Flows
-DOI:https://doi.org/10.5281/zenodo.18011380
+# Relative-Entropy Endpoint-Path Gaps as a Diagnostic of RG Coarse-Graining Failure
 
-This repository contains the PDF and LaTeX source package for the one-loop QED worked computation paper.
+This repository hosts the PDF and the LaTeX source package for the worked one-loop QED computation paper.  
+The paper introduces endpoint/path gap diagnostics (strict path gap and a computable geometric proxy) for identifying coarse-graining failure along RG flows under a fixed viewpoint/resolution.
 
-## Files
-- `Endpoint_Path_Gaps_as_a_Diagnostic_of_Coarse_Graining_Breakdown_Along_RG_Flows.pdf` — paper PDF
-- `Endpoint_Path_Gaps_as_a_Diagnostic_of_Coarse_Graining_Breakdown_Along_RG_Flows.zip` — LaTeX sources (download and unzip)
+## Contents
+
+- `Relative_Entropy_Endpoint_Path_Gaps_as_a_Diagnostic_of_RG_Coarse_Graining_Failure.pdf`  
+  Compiled manuscript (current release: v1.1).
+
+- `Relative_Entropy_Endpoint_Path_Gaps_as_a_Diagnostic_of_RG_Coarse_Graining_Failure.zip`  
+  LaTeX source package corresponding to the PDF.
 
 ## Related paper (framework)
-Companion framework repository: https://github.com/ybing2093-ops/psi-delta-structural-gaps
+
+Companion framework repository: `https://github.com/ybing2093-ops/psi-delta-structural-gaps`
+
