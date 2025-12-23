@@ -6,7 +6,7 @@ The paper introduces endpoint/path gap diagnostics (strict path gap and a comput
 ## Contents
 
 - `Relative_Entropy_Endpoint_Path_Gaps_as_a_Diagnostic_of_RG_Coarse_Graining_Failure.pdf`  
-  Compiled manuscript (current release: v1.1).
+  Compiled manuscript (current release: v1.2).
 
 - `Relative_Entropy_Endpoint_Path_Gaps_as_a_Diagnostic_of_RG_Coarse_Graining_Failure.zip`  
   LaTeX source package corresponding to the PDF.
