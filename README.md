@@ -1,3 +1,8 @@
+## Start here 
+- Executive summary + identity + reproduction target: `./AUDIT.md`
+- Reproduce the check (source bundle): `python run_b1_path2.py` → `fig_gamma_geo_ci.pdf`
+- Canonical record (DOI): https://doi.org/10.5281/zenodo.18414030
+
 # Relative-Entropy Endpoint–Path Gaps as a Diagnostic of RG Coarse-Graining Failure
 
 This repository preserves a single idea:
