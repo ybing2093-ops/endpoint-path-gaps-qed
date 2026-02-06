@@ -50,15 +50,6 @@ This diagnostic can be used to:
 The thesis is not rhetorical:
 **a failure mode can be diagnosed, quantified, and bounded.**
 
-## How to engage with it (verification / falsification)
-
-I do not ask for authority-based acceptance.
-If the framework is wrong, it should be rejected by:
-- a counterexample to the main criterion,
-- a proof-level objection,
-- or a precise identification of which assumption is invalid.
-
-If it is right, it should be usable as a diagnostic tool independent of venue.
 
 ## Reading map
 
@@ -68,10 +59,9 @@ If you only have ~15–20 pages:
 3. Implications: what endpoint matching can certify, and what it cannot.
 Appendices contain derivations and reproducibility-oriented details.
 
-## Data / reproducibility
-
+## Reproducibility
 No datasets were generated or analysed.
-All derivations and reproducibility-oriented details are contained in the manuscript and its appendices.
+A minimal reproduction check is provided in the source bundle: run `run_b1_path2.py` to generate `fig_gamma_geo_ci.pdf` (1-loop vs 2-loop comparison).
 
 ## Repository contents
 
